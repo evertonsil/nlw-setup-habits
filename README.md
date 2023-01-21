@@ -1,7 +1,6 @@
 <p align="center">
-  <img alt="" src=.github/logoNlwSetup.svg
-  <img alt="" src=.github/logoExplorer.svg
-g />
+  <img alt="" src=.github/logoNlwSetup.svg />
+  <img alt="" src=.github/logoExplorer.svg />
 </p>
 
 <img src=.github/home.png />
