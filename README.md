@@ -24,6 +24,10 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 - [Layout](https://www.figma.com/file/o1tCBXRO05Utq3CGUr9MDP/Habits-(e)-(Community)?t=0P6y5jyPG2JSvE65-6)
 
+## 🌎 Visualize o projeto online
+
+https://everton-nlw-setup-habits.netlify.app/
+
 <p align="center">
   Desenvolvido por Everton Marques & Rocketseat! 🚀
 </p>
